@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+__pycache__/
+.env
+.venv/
+venv/
+env/
+
+# Build files
+/client/dist/
+/client/build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.docker/
